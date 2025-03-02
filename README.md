@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is nik, also known as nyronik</p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4030092" style='border:none;'></iframe>
 
 ###
 
