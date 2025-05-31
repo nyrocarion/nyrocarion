@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ I'm a first year computer science student with a specialisation in cyber security<br>📚 Currently learning about cyber security basics<br>🎮 In my free time I like to make small games using pygame (still very much a beginner though) I would like to release a well finished game <br>🎯 My goal is to learn more about software development and cyber security⌚Currently writing some small python programms to ease my workflow with latex in Obsidian</p>
+<p align="left">✨ I'm a first year computer science student with a specialisation in cyber security<br>📚 Currently learning about cyber security basics<br>🎮 In my free time I like to make small games using pygame (still very much a beginner though) I would like to release a well finished game <br>🎯 My goal is to learn more about software development and cyber security<br>⌚Currently writing some small python programms to ease my workflow with latex in Obsidian</p>
 
 ###
